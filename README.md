@@ -49,13 +49,13 @@ Dark terminal, retro UI, clean code
 
 <div align="center">
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/gqrlx">
   <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=7FFF00&labelColor=111111" alt="Telegram" />
 </a>
 
 </div>
 
-> Replace `YOUR_USERNAME` with your Telegram username.
+> Replace `@gqrlx` with your Telegram username.
 
 ---
 
